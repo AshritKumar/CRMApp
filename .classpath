@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SamudraAA/apache-tomcat-8.0.52-windows-x64/apache-tomcat-8.0.52/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SamudraAA/apache-tomcat-8.0.52-windows-x64/apache-tomcat-8.0.52/lib/ojdbc6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springLib"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/ehcache/ehcache-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/ehcache/hibernate-ehcache-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/ehcache/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/work/jstl/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/jstl/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/c3p0/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/c3p0/hibernate-c3p0-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/work/hibernate/hibernate-release-5.3.7.Final/lib/optional/c3p0/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SamudraAA/Downloads/aspectjweaver-1.9.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

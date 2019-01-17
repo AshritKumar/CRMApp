@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>practice.orm.hibernate</groupId>
   <artifactId>hibx</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>hibx Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -21,7 +21,6 @@
 	    <version>5.3.7.Final</version>
 	</dependency>
 	    
-
 	<dependency>
 	    <groupId>com.sun.xml.bind</groupId>
 	    <artifactId>jaxb-impl</artifactId>
